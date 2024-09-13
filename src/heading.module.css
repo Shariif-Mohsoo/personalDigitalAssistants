@@ -1,0 +1,11 @@
+.heading_1 {
+  color: #fff;
+  text-align: center;
+}
+
+/* FOR PROFILE CARD DESCRIPTION */
+.description {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 2rem;
+}
